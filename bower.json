@@ -1,0 +1,25 @@
+{
+  "name": "smart-tooltip",
+  "authors": [
+    "jQWidgets Ltd"
+  ],
+  "description": "Smart Tooltip is a free Tooltip Element, built using native Javascript and CSS.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "smart Tooltip",
+    "Tooltip",
+	"Tooltip Web Component",
+	"Tooltip Custom Element"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.0",
+    "smart-core": "HTMLElements/smart-core"
+  }
+}
