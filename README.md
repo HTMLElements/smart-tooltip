@@ -28,6 +28,10 @@
 ```
 -->
 ```html
+	<br/>
+	<br/>
+	<br/>
+	<br/>
     <smart-button id="button">Button</smart-button>
     <smart-tooltip id="tooltip" selector="button" arrow>This is a tooltip for smartButton</smart-tooltip>
 ```
