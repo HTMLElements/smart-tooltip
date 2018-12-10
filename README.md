@@ -28,12 +28,8 @@
 ```
 -->
 ```html
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-    <smart-button id="button">Button</smart-button>
-    <smart-tooltip id="tooltip" selector="button" arrow>This is a tooltip for smartButton</smart-tooltip>
+    <smart-button style="margin: 50px;" id="button">Button</smart-button>
+    <smart-tooltip id="tooltip" selector="button" arrow>Tooltip</smart-tooltip>
 ```
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-tooltip/master/tooltip-web-component.png" alt="Screenshot of smart-tooltip">](https://htmlelements.com/demos/tooltip)
