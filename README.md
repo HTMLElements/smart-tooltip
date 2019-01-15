@@ -1,3 +1,11 @@
+# [Smart Tooltip Element](https://www.htmlelements.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,blocks,developers,webcomponents,customelements,polymer,material)
+
+&nbsp;[![Slack](https://smarthtmlelements-slack.herokuapp.com/badge.svg)](https://smarthtmlelements.slack.com/)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/HTMLElements/smart-tooltip/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/froala-design-blocks.svg?colorB=brightgreen)](https://www.npmjs.com/package/@smarthtmlelements/smart-tooltip)
+[![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-tooltip.svg)](https://github.com/HTMLElements/smart-tooltip)
+[![License: APACHE](https://img.shields.io/badge/license-APACHE-blue.svg)](https://github.com/HTMLElements/smart-tooltip/blob/master/LICENSE)
+[![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/htmlelements/smart-tooltip)
 
 # &lt;smart-tooltip&gt;
